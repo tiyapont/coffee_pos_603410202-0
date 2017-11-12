@@ -1,0 +1,10 @@
+C:\Users\pepefrog2030\Documents\Visual Studio 2017\Projects\coffee_pos_603410202-0\coffee_pos_603410202-0\bin\Debug\coffee_pos_603410202-0.exe.config
+C:\Users\pepefrog2030\Documents\Visual Studio 2017\Projects\coffee_pos_603410202-0\coffee_pos_603410202-0\bin\Debug\coffee_pos_603410202-0.exe
+C:\Users\pepefrog2030\Documents\Visual Studio 2017\Projects\coffee_pos_603410202-0\coffee_pos_603410202-0\bin\Debug\coffee_pos_603410202-0.pdb
+C:\Users\pepefrog2030\Documents\Visual Studio 2017\Projects\coffee_pos_603410202-0\coffee_pos_603410202-0\obj\Debug\coffee_pos_603410202-0.csprojResolveAssemblyReference.cache
+C:\Users\pepefrog2030\Documents\Visual Studio 2017\Projects\coffee_pos_603410202-0\coffee_pos_603410202-0\obj\Debug\coffee_pos_603410202_0.Form1.resources
+C:\Users\pepefrog2030\Documents\Visual Studio 2017\Projects\coffee_pos_603410202-0\coffee_pos_603410202-0\obj\Debug\coffee_pos_603410202_0.Properties.Resources.resources
+C:\Users\pepefrog2030\Documents\Visual Studio 2017\Projects\coffee_pos_603410202-0\coffee_pos_603410202-0\obj\Debug\coffee_pos_603410202-0.csproj.GenerateResource.Cache
+C:\Users\pepefrog2030\Documents\Visual Studio 2017\Projects\coffee_pos_603410202-0\coffee_pos_603410202-0\obj\Debug\coffee_pos_603410202-0.csproj.CoreCompileInputs.cache
+C:\Users\pepefrog2030\Documents\Visual Studio 2017\Projects\coffee_pos_603410202-0\coffee_pos_603410202-0\obj\Debug\coffee_pos_603410202-0.exe
+C:\Users\pepefrog2030\Documents\Visual Studio 2017\Projects\coffee_pos_603410202-0\coffee_pos_603410202-0\obj\Debug\coffee_pos_603410202-0.pdb
